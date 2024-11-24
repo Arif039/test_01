@@ -1742,6 +1742,11 @@ i.bx.bx-paper-plane {
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .copy_footer {
+        margin: 27px 0;
     }
 
 }
